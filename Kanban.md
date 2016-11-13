@@ -1,6 +1,6 @@
 #Kanban - Visual Card
 
-#Origins
+##Origins
 
 [Kanban Atlassian](https://www.atlassian.com/agile/kanban)
  
