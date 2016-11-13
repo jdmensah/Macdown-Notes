@@ -1,6 +1,6 @@
 #Kanban Useful Links & Information 
 
-[Link to Kanban Notes](/users/jst/documents/sparta\ global/macdown-notes/kanban.md)
+[Link to Kanban Notes](https://github.com/jdmensah/Macdown-Notes/blob/master/Kanban.md)
 
 [JIRA Beginner's Training Pack](https://www.youtube.com/playlist?list=PLlALqRAjvdnGB_T0GAB1Fk2rVZgnJJAOa)
 
