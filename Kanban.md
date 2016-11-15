@@ -60,11 +60,10 @@
 
 Kanban and scrum share some of the same concepts but have very different approaches. They should not be confused with one another
 
-![](/Users/JST/Desktop/Sparta\ Global/Images/SCRUM\ Vs\ KANBAM.tiff)
+![](/Users/JST/Documents/Sparta\ Global/Images/SCRUM\ Vs\ KANBAM.tiff)
 
 
 ###Businesses 
-
 * Just in time (JIT) is an inventory management system, used to manage the stock that is kept in storage. It involves receiving goods from suppliers as and when they are required, rather than carrying a large inventory at once.
 
 ####Advantages 
@@ -79,7 +78,9 @@ Kanban and scrum share some of the same concepts but have very different approac
 
 ####Contradictions 
 * Atlassian says its causes fewer bottleneck where as 
-* Bottlenecks. To address bottlenecks in the system, it makes more sense to suspend the Kanban production schedule and focus on fixing the bottleneck. The situation is similar to what happens with a traffic accident occurs at an intersection where the assistance of a police officer, the planning scheduler, is needed to manage the traffic until the bottleneck is cleared. [Opposite](http://www.brighthubpm.com/methods-strategies/71133-weighing-the-disadvantages-of-the-kanban-system/)
+* Bottlenecks. To address bottlenecks in the system, it makes more sense to suspend the Kanban production schedule and focus on fixing the bottleneck. The situation is similar to what happens with a traffic accident occurs at an intersection where the assistance of a police officer, the planning scheduler, is needed to manage the traffic until the bottleneck is cleared. 
+
+[Opposite](http://www.brighthubpm.com/methods-strategies/71133-weighing-the-disadvantages-of-the-kanban-system/)
 
 ###WIP
 
